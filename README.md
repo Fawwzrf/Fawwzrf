@@ -42,16 +42,6 @@ Here are some of the projects I've been working on:
 * **📱 NgOjek / JekSoed:** A ride-hailing platform designed for students, built to solve campus transportation needs.
 * **🍅 Pomocat / Pomotime:** A productivity application utilizing the Pomodoro technique to enhance study focus.
 * **🧠 Fuzzy Logic Implementations:** Explorations in Tsukamoto and Mamdani methods for decision-making systems.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Fawwzrf&show_icons=true&theme=radical&hide_border=true" height="160" alt="Fawwaz's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawwzrf&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
-</div>
-
 ---
 
 <div align="center">
