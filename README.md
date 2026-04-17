@@ -1,54 +1,87 @@
-# Hi there, I'm Fawwaz Aufa! 👋
+<div align="center">
 
-### Informatics Student @ Universitas Jenderal Soedirman (Unsoed)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Fawwaz+Aufa+Rafi;AI+Engineer+Enthusiast;Full-stack+Web+%26+Mobile+Developer;Informatics+Student+at+Unsoed" alt="Typing SVG" />
 
-I am an aspiring Software Engineer and AI enthusiast. I have a strong passion for building functional applications and exploring the depths of Artificial Intelligence.
+<p>
+  <a href="https://linkedin.com/in/fawwzrf" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alghajr2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Fawwzrf&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Fawwzrf" />
+</p>
+
+</div>
 
 ---
 
-### 🚀 About Me
+### 🚀 Tentang Saya
 
-- 🎓 **Study:** Currently focusing on Informatics Engineering, exploring **Web Dev**, **Mobile Dev**, and **Artificial Intelligence**.
-- 🔭 **Current Focus:** Developing mobile-based solutions and learning advanced Python for Data Analysis.
-- 🌱 **Learning:** Deepening my knowledge in **Machine Learning** algorithms.
-- 💼 **Goal:** Seeking an internship opportunity to apply my skills in real-world projects.
+Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedirman (Unsoed)**. Fokus saya adalah menjembatani celah antara **Software Engineering** konvensional dengan **Artificial Intelligence** siap produksi.
+
+* 🔭 **Current Project:** Mengembangkan **PhishingDetector** dengan *Anti-Bias Engine* dan visualisasi **SHAP (Explainable AI)**.
+* 🌱 **Learning Path:** Mendalami **Deep Learning** menggunakan **PyTorch** dan ekosistem **Hugging Face**.
+* 💼 **Internship Hunt:** Terbuka untuk kesempatan magang mulai **Agustus 2026** di bidang *Data Science* atau *Backend Development*.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<div align="center">
 
-**Frameworks & Libraries**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-blue?style=for-the-badge)
+| **AI & Data Science** | **Web & Mobile** | **Tools & Others** |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi" /> | <img src="https://skillicons.dev/icons?i=php,laravel,kotlin,nextjs,react" /> | <img src="https://skillicons.dev/icons?i=git,mysql,docker,linux,vscode" /> |
 
-**Tools & Environment**
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+</div>
 
 ---
 
 ### 💻 Featured Projects
 
-Here are some of the projects I've been working on:
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎣 <a href="https://github.com/Fawwzrf/PhishingDetector">PhishingDetector</a></h4>
+      <p>Sistem deteksi URL phishing yang transparan dengan <b>Explainable AI (XAI)</b>. Memperbaiki akurasi pada URL kompleks dari 0% ke 90%.</p>
+      <code>LightGBM</code> <code>FastAPI</code> <code>SHAP</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌍 <a href="https://github.com/Fawwzrf/India-Air-Quality-Prediction">AQI Prediction</a></h4>
+      <p>Model regresi untuk memprediksi kualitas udara di India. Meraih performa <b>$R^2$ Score 0.91</b> dengan optimasi <i>Random Forest</i>.</p>
+      <code>Scikit-Learn</code> <code>Pandas</code> <code>EDA</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 <a href="https://github.com/Fawwzrf/JekSoed">NgOjek (JekSoed)</a></h4>
+      <p>Aplikasi ride-hailing berbasis komunitas kampus Unsoed, dibangun dengan arsitektur MVVM untuk mobilitas mahasiswa.</p>
+      <code>Kotlin</code> <code>Laravel</code> <code>MVVM</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 <a href="#">Fuzzy Logic Systems</a></h4>
+      <p>Implementasi logika Fuzzy metode Tsukamoto dan Mamdani untuk sistem pengambilan keputusan produksi.</p>
+      <code>Algorithm</code> <code>Python</code>
+    </td>
+  </tr>
+</table>
 
-* **📱 NgOjek / JekSoed:** A ride-hailing platform designed for students, built to solve campus transportation needs.
-* **🍅 Pomocat / Pomotime:** A productivity application utilizing the Pomodoro technique to enhance study focus.
-* **🧠 Fuzzy Logic Implementations:** Explorations in Tsukamoto and Mamdani methods for decision-making systems.
+---
+
+### 📊 GitHub Analysis
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fawwzrf&show_icons=true&theme=tokyonight&border_radius=10" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fawwzrf&theme=tokyonight&border_radius=10" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawwzrf&layout=compact&theme=tokyonight&border_radius=10" height="170" />
+</div>
+
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/fawwzrf._" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:alghajr2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </div>
