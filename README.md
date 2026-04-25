@@ -55,14 +55,14 @@ Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedi
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📱 <a href="https://github.com/Fawwzrf/JekSoed">NgOjek (JekSoed)</a></h4>
-      <p>Aplikasi ride-hailing berbasis komunitas kampus Unsoed, dibangun dengan arsitektur MVVM untuk mobilitas mahasiswa.</p>
-      <code>Kotlin</code> <code>Laravel</code> <code>MVVM</code>
+      <h4>🤖 <a href="https://github.com/Fawwzrf/Rei-Assistant">Rei-Assistant (AI Assistant)</a></h4>
+      <p>Asisten pribadi cerdas dengan avatar Live2D Hiyori yang ditenagai oleh Gemini LLM dan sistem Text-to-Speech untuk interaksi yang imersif.</p>
+      <code>Gemini AI</code> <code>Live2D</code> <code>Electron</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🧠 <a href="#">Fuzzy Logic Systems</a></h4>
-      <p>Implementasi logika Fuzzy metode Tsukamoto dan Mamdani untuk sistem pengambilan keputusan produksi.</p>
-      <code>Algorithm</code> <code>Python</code>
+      <h4>🏪 <a href="https://github.com/Fawwzrf/WarungPintar">WarungPintar (POS System)</a></h4>
+      <p>Sistem manajemen toko berbasis Flutter dengan sinkronisasi Supabase, fitur pelacakan penjualan, manajemen hutang, dan laporan otomatis.</p>
+      <code>Flutter</code> <code>Supabase</code> <code>Dart</code>
     </td>
   </tr>
 </table>
