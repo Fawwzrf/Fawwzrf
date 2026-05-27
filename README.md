@@ -22,7 +22,7 @@ Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedi
 
 * **Current Project:** Mengembangkan **PhishingDetector** dengan *Anti-Bias Engine* dan visualisasi **SHAP (Explainable AI)**.
 * **Learning Path:** Mendalami **Deep Learning** menggunakan **PyTorch** dan ekosistem **Hugging Face**.
-* **Internship Hunt:** Terbuka untuk kesempatan magang mulai **Agustus 2026** di bidang *Data Science* atau *Backend Development*.
+* **Internship Hunt:** Terbuka untuk kesempatan magang mulai **Agustus 2026** di bidang *Data Science* atau *AI/ML Engineer*.
 
 ---
 
