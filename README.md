@@ -16,17 +16,17 @@
 
 ---
 
-### 🚀 Tentang Saya
+### Tentang Saya
 
 Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedirman (Unsoed)**. Fokus saya adalah menjembatani celah antara **Software Engineering** konvensional dengan **Artificial Intelligence** siap produksi.
 
-* 🔭 **Current Project:** Mengembangkan **PhishingDetector** dengan *Anti-Bias Engine* dan visualisasi **SHAP (Explainable AI)**.
-* 🌱 **Learning Path:** Mendalami **Deep Learning** menggunakan **PyTorch** dan ekosistem **Hugging Face**.
-* 💼 **Internship Hunt:** Terbuka untuk kesempatan magang mulai **Agustus 2026** di bidang *Data Science* atau *Backend Development*.
+* **Current Project:** Mengembangkan **PhishingDetector** dengan *Anti-Bias Engine* dan visualisasi **SHAP (Explainable AI)**.
+* **Learning Path:** Mendalami **Deep Learning** menggunakan **PyTorch** dan ekosistem **Hugging Face**.
+* **Internship Hunt:** Terbuka untuk kesempatan magang mulai **Agustus 2026** di bidang *Data Science* atau *Backend Development*.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 <div align="center">
 
@@ -38,7 +38,7 @@ Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedi
 
 ---
 
-### 💻 Featured Projects
+### Featured Projects
 
 <table align="center">
   <tr>
@@ -69,7 +69,7 @@ Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedi
 
 ---
 
-### 📊 GitHub Analysis
+### GitHub Analysis
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fawwzrf&show_icons=true&theme=tokyonight&border_radius=10" height="170" />
