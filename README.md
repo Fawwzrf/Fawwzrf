@@ -28,9 +28,8 @@ Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedi
 * 🌐 **Portfolio:** Kunjungi karya, pengalaman, dan detail proyek lengkap saya di **[Website Portofolio Saya](https://documee-by-fawwzrf.vercel.app/)**.
 * 🌱 **Learning Path:** Mendalami **Deep Learning** menggunakan **PyTorch** dan otomatisasi *workflow* (LLM Agent).
 * 💼 **Internship Hunt:** Terbuka untuk kesempatan magang mulai **Juli 2026** di bidang *AI/ML Engineer* atau *Data Science*.
-* 🔭 **Current Project:** [[PORTFOLIO-START]]
-  * 🚀 [**Rei-Assistant**](https://github.com/Fawwzrf/Rei-Assistant) - Proyek portofolio terbaru
-[[PORTFOLIO-END]]
+* 🔭 **Current Project:** `
+`
 
 ### 🛠️ Tech Stack & Skills
 
