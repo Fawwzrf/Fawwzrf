@@ -29,6 +29,7 @@ Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedi
 * 🌱 **Learning Path:** Mendalami **Deep Learning** menggunakan **PyTorch** dan otomatisasi *workflow* (LLM Agent).
 * 💼 **Internship Hunt:** Terbuka untuk kesempatan magang mulai **Juli 2026** di bidang *AI/ML Engineer* atau *Data Science*.
 * 🔭 **Current Project:** [[PORTFOLIO-START]]
+  * 🚀 [**Rei-Assistant**](https://github.com/Fawwzrf/Rei-Assistant) - Proyek portofolio terbaru
 [[PORTFOLIO-END]]
 
 ### 🛠️ Tech Stack & Skills
