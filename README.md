@@ -25,10 +25,11 @@
 
 Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedirman (Unsoed)**. Fokus saya adalah menjembatani celah antara **Software Engineering** konvensional dengan **Artificial Intelligence** siap produksi.
 
-* 🌐 **Portfolio:** Kunjungi karya, pengalaman, dan detail proyek lengkap saya di **[Website Portofolio Saya](https://wd93ky65.insforge.site/)**.
+* 🌐 **Portfolio:** Kunjungi karya, pengalaman, dan detail proyek lengkap saya di **[Website Portofolio Saya](https://documee-by-fawwzrf.vercel.app/)**.
 * 🌱 **Learning Path:** Mendalami **Deep Learning** menggunakan **PyTorch** dan otomatisasi *workflow* (LLM Agent).
 * 💼 **Internship Hunt:** Terbuka untuk kesempatan magang mulai **Juli 2026** di bidang *AI/ML Engineer* atau *Data Science*.
-* 🔭 **Current Project:** ---
+* 🔭 **Current Project:** [[PORTFOLIO-START]]
+[[PORTFOLIO-END]]
 
 ### 🛠️ Tech Stack & Skills
 
