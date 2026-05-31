@@ -31,7 +31,7 @@ Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedi
 * 🔭 **Current Project** `:`
 - **WarungPintar** : WarungPintar Lite v2.0 is an AI-powered digital store management application designed for Indonesian SMEs, offering real-time inventory, digital debt management, and smart restock predictions. It leverages a modern stack of Flutter, Supabase, and Google Gemini to automate business operations and provide actionable insights.
 * 🚀 [**Rei-Assistant**](https://github.com/Fawwzrf/Rei-Assistant) - Proyek portofolio terbaru
-`soon`
+`latest`
 
 ### 🛠️ Tech Stack & Skills
 
