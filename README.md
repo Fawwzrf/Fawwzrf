@@ -29,10 +29,10 @@ Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedi
 * 🌱 **Learning Path:** Mendalami **Deep Learning** menggunakan **PyTorch** dan otomatisasi *workflow* (LLM Agent).
 * 💼 **Internship Hunt:** Terbuka untuk kesempatan magang mulai **Juli 2026** di bidang *AI/ML Engineer* atau *Data Science*.
 * 🔭 **Current Project** `:`
-  - **Sentimen-Analysis** : This project implements an advanced Natural Language Processing (NLP) system to automatically classify and map student feedback into specific categories. Leveraging Python, Pandas, and the DistilBERT model, it provides insightful sentiment analysis for educational institutions.
+  - **WarungPintar** : WarungPintar Lite v2.0 is an AI-powered digital store management application designed for Indonesian MSMEs. It streamlines operations by offering offline-first inventory, real-time sync, and intelligent AI recommendations for stock and business insights.
+- **Sentimen-Analysis** : This project implements an advanced Natural Language Processing (NLP) system to automatically classify and map student feedback into specific categories. Leveraging Python, Pandas, and the DistilBERT model, it provides insightful sentiment analysis for educational institutions.
 - **Pomocat** : Pomocat is a full-stack web application that boosts productivity using an interactive Pomodoro timer, integrated task management, and detailed performance analytics. It showcases a real-time leaderboard and dynamic 3D visualizations, leveraging Laravel 12, Tailwind CSS, and Spline 3D.
 - **JeksoedV2** : JeksoedV2 is a comprehensive ride-hailing application built with Flutter, offering real-time tracking, secure authentication, and efficient trip management. This project showcases a robust two-sided marketplace for passengers and drivers powered by Supabase and Google Maps API.
-- **IPSRS** : IPSRS is a robust web-based management system designed to optimize hospital facility and infrastructure maintenance. It streamlines complaint reporting, preventive maintenance scheduling, and technician work log monitoring for enhanced operational efficiency.
 `latest`
 
 ### 🛠️ Tech Stack & Skills
