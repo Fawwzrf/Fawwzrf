@@ -29,9 +29,8 @@ Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedi
 * 🌱 **Learning Path:** Mendalami **Deep Learning** menggunakan **PyTorch** dan otomatisasi *workflow* (LLM Agent).
 * 💼 **Internship Hunt:** Terbuka untuk kesempatan magang mulai **Juli 2026** di bidang *AI/ML Engineer* atau *Data Science*.
 * 🔭 **Current Project** `:`
-  - **Sentimen-Analysis** : This project implements an Natural Language Processing (NLP) system for automated sentiment analysis and categorization of student feedback using Python and the efficient DistilBERT model. It effectively classifies feedback as positive/negative and maps complaints to specific sub-categories with zero-shot classification.
+  - **WarungPintar** : An AI-powered, offline-first mobile application, WarungPintar Lite v2.0 revolutionizes inventory and debt management for Indonesian MSMEs. It leverages real-time synchronization and smart AI recommendations to digitize traditional business processes.
 - **Air-Quality-Index-AQI-Prediction** : This project develops a robust machine learning model to accurately predict daily Air Quality Index (AQI) levels across Indian cities. Utilizing Python and Scikit-Learn, it achieved an impressive R² score of 0.91, significantly outperforming baseline models.
-- **WarungPintar** : WarungPintar Lite v2.0 is an AI-powered digital store management application designed for Indonesian SMEs, offering real-time inventory, digital debt management, and smart restock predictions. It leverages a modern stack of Flutter, Supabase, and Google Gemini to automate business operations and provide actionable insights.
 `latest`
 
 ### 🛠️ Tech Stack & Skills
