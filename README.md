@@ -35,7 +35,7 @@ Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedi
   - **JeksoedV2** : JeksoedV2 is a comprehensive ride-hailing application built with Flutter, offering real-time tracking, secure authentication, and efficient trip management. This project showcases a robust two-sided marketplace for passengers and drivers powered by Supabase and Google Maps API.
 `latest`
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 <div align="center">
 
