@@ -29,7 +29,8 @@ Saya adalah mahasiswa **Informatika semester 6** di **Universitas Jenderal Soedi
 * 🌱 **Learning Path:** Mendalami **Deep Learning** menggunakan **PyTorch** dan otomatisasi *workflow* (LLM Agent).
 * 💼 **Internship Hunt:** Terbuka untuk kesempatan magang mulai **Juli 2026** di bidang *AI/ML Engineer* atau *Data Science*.
 * 🔭 **Current Project** `:`
-  - **Air-Quality-Index-AQI-Prediction** : This project develops a robust machine learning model for daily Air Quality Index (AQI) prediction across Indian cities, leveraging comprehensive pollutant data. Utilizing Python and Scikit-Learn, it delivers critical environmental insights for policy-making and public health.
+  - **IPSRS** : IPSRS is a robust web-based management system designed to optimize hospital facility and infrastructure maintenance. It streamlines complaint reporting, preventive maintenance scheduling, and technician work log monitoring for enhanced operational efficiency.
+- **Air-Quality-Index-AQI-Prediction** : This project develops a robust machine learning model for daily Air Quality Index (AQI) prediction across Indian cities, leveraging comprehensive pollutant data. Utilizing Python and Scikit-Learn, it delivers critical environmental insights for policy-making and public health.
 `latest`
 
 ### 🛠️ Tech Stack & Skills
